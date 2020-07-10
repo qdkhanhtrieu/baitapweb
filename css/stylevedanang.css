@@ -1,0 +1,62 @@
+.navbar-nav > li > a {
+	color:  #fe9b00;
+	font-family: Times New Roman;
+	font-weight: bold;
+	font-size: 15px;
+}
+.carousel-control-prev-icon {
+     width: 32px;
+     height: 32px;
+}
+ .carousel-control-next-icon {
+     width: 32px;
+     height: 32px;
+}
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 50px;
+    height: 50px;
+}
+.fixDisplay {
+	padding: 20px 0;
+	border-bottom: solid 1px #c0c0c0;
+	justify-content: flex-start;
+}
+h4 {
+	text-transform: uppercase;;
+	color: #090909;
+	font-weight: bold;;
+	font-family: Times New Roman;
+	background: no-repeat left center;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  font-family: Times New Roman;
+}
+p {
+	text-align: justify;
+	font-family: Times New Roman;
+}
+h6 {
+	font-family: Times New Roman;
+	font-weight: bold;
+	font-size: 15px;
+}
+.fixDisplay1 {
+	padding: 20px 0;
+	border-bottom: solid 1px #c0c0c0;
+	justify-content: flex-start;
+	background-color: rgb(255,250,205);
+}  text-align: center;
+  font-family: Times New Roman;
+}
+p {
+	text-align: justify;
+	font-family: Times New Roman;
+}
+h6 {
+	font-family: Times New Roman;
+	font-weight: bold;
+	font-size: 15px;
+}
